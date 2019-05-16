@@ -1,0 +1,10 @@
+C:\Users\HASAN\Desktop\2019SON\Veri Güvenliği\Dosya_Sifreleme_Imzalama\Dosya_Sifreleme_Imzalama\bin\Debug\Dosya_Sifreleme_Imzalama.exe.config
+C:\Users\HASAN\Desktop\2019SON\Veri Güvenliği\Dosya_Sifreleme_Imzalama\Dosya_Sifreleme_Imzalama\bin\Debug\Dosya_Sifreleme_Imzalama.exe
+C:\Users\HASAN\Desktop\2019SON\Veri Güvenliği\Dosya_Sifreleme_Imzalama\Dosya_Sifreleme_Imzalama\bin\Debug\Dosya_Sifreleme_Imzalama.pdb
+C:\Users\HASAN\Desktop\2019SON\Veri Güvenliği\Dosya_Sifreleme_Imzalama\Dosya_Sifreleme_Imzalama\obj\Debug\Dosya_Sifreleme_Imzalama.csprojAssemblyReference.cache
+C:\Users\HASAN\Desktop\2019SON\Veri Güvenliği\Dosya_Sifreleme_Imzalama\Dosya_Sifreleme_Imzalama\obj\Debug\Dosya_Sifreleme_Imzalama.Main.resources
+C:\Users\HASAN\Desktop\2019SON\Veri Güvenliği\Dosya_Sifreleme_Imzalama\Dosya_Sifreleme_Imzalama\obj\Debug\Dosya_Sifreleme_Imzalama.Properties.Resources.resources
+C:\Users\HASAN\Desktop\2019SON\Veri Güvenliği\Dosya_Sifreleme_Imzalama\Dosya_Sifreleme_Imzalama\obj\Debug\Dosya_Sifreleme_Imzalama.csproj.GenerateResource.cache
+C:\Users\HASAN\Desktop\2019SON\Veri Güvenliği\Dosya_Sifreleme_Imzalama\Dosya_Sifreleme_Imzalama\obj\Debug\Dosya_Sifreleme_Imzalama.csproj.CoreCompileInputs.cache
+C:\Users\HASAN\Desktop\2019SON\Veri Güvenliği\Dosya_Sifreleme_Imzalama\Dosya_Sifreleme_Imzalama\obj\Debug\Dosya_Sifreleme_Imzalama.exe
+C:\Users\HASAN\Desktop\2019SON\Veri Güvenliği\Dosya_Sifreleme_Imzalama\Dosya_Sifreleme_Imzalama\obj\Debug\Dosya_Sifreleme_Imzalama.pdb
